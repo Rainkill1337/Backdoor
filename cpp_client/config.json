@@ -1,0 +1,7 @@
+{
+    "server": "38.175.195.144",
+    "port": 8089,
+    "console_log": true,
+    "auto_start": true,
+    "reconnect_interval": 2
+}
